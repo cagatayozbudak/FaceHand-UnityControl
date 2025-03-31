@@ -14,6 +14,7 @@ This project uses:
   - numpy
 
 Install dependencies: pip install opencv-python mediapipe numpy
+
 ✅ Make sure your webcam is working properly.
 
 - Unity
