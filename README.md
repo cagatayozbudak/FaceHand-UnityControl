@@ -18,3 +18,6 @@ This project uses:
   - mediapipe
 
   - numpy
+
+Install dependencies: pip install opencv-python mediapipe numpy
+
