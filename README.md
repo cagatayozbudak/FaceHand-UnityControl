@@ -21,6 +21,7 @@ Install dependencies: pip install opencv-python mediapipe numpy
   - Unity 2021+ (any recent version works)
   - A simple 3D ship model in the scene (you can use any free model from Unity Asset Store)
   - A GameObject with the PlayerMovement.cs script attached
+
 ✅ C# scripting must be enabled (this is included by default in Unity installs).
 Make sure your Unity version supports C# and UDP communication via System.Net.Sockets namespace.
  
