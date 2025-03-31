@@ -20,4 +20,11 @@ This project uses:
   - numpy
 
 Install dependencies: pip install opencv-python mediapipe numpy
+✅ Make sure your webcam is working properly.
 
+- Unity
+  - Unity 2021+ (any recent version works)
+
+  - A simple 3D ship model in the scene (you can use any free model from Unity Asset Store)
+
+  - A GameObject with the PlayerMovement.cs script attached
