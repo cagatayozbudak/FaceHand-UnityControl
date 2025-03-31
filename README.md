@@ -9,3 +9,12 @@ This project uses:
 
 - UDP sockets for real-time communication between Python and Unity
 
+🛠 Requirements
+- Python
+  - Python 3.7+
+
+  - opencv-python
+
+  - mediapipe
+
+  - numpy
